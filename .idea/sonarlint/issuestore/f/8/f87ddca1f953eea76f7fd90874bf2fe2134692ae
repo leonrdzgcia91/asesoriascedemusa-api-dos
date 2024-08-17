@@ -1,0 +1,17 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(îıˆ‰ıÿÿÿÿ8«À§¶’2
+X	java:S125)"<This block of commented-out lines of code should be removed.(Ú×Âò8ÔÛ³·’2
+G	java:S1062"+Replace this use of System.out by a logger.(âĞöª8¯À§¶’2
+G	java:S1063"+Replace this use of System.out by a logger.(ÉÁ±8¯À§¶’2
+L	java:S1064"+Replace this use of System.out by a logger.(ˆä±áøÿÿÿÿ8¯À§¶’2
+]	java:S1255"<This block of commented-out lines of code should be removed.(ØÊ¨‰ùÿÿÿÿ8¯À§¶’2
+G	java:S106<"+Replace this use of System.out by a logger.(è±ñª8¯À§¶’2
+]	java:S125="<This block of commented-out lines of code should be removed.(¤º£®ùÿÿÿÿ8¯À§¶’2
+^
+java:S1858>"A"getName" returns a string, there's no need to call "toString()".(Úÿ•8Ô—Ó¦•2
+^
+java:S1858>"A"getName" returns a string, there's no need to call "toString()".(Úÿ•8Ø—Ó¦•2
+L	java:S106?"+Replace this use of System.out by a logger.(ÊğÃ‡øÿÿÿÿ8±À§¶’2
+X	java:S125@"<This block of commented-out lines of code should be removed.(Ï¸×¦8©¡­¶’2
+]	java:S125C"<This block of commented-out lines of code should be removed.(¤º£®ùÿÿÿÿ8±À§¶’2
+F	java:S106G"+Replace this use of System.out by a logger.(—æàk8±À§¶’2

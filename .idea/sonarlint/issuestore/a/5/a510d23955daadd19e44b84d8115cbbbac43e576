@@ -1,0 +1,13 @@
+
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®»Ç8™½Ä‡2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8£½Ä‡2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8£½Ä‡2
+I
+java:S1172",Remove this unused method parameter "email".(×ÕÇØ8¦½Ä‡2
+]	java:S125"<This block of commented-out lines of code should be removed.(´€–İûÿÿÿÿ8§½Ä‡2
+X	java:S125!"<This block of commented-out lines of code should be removed.(îËÂ™8¨½Ä‡2
+]	java:S125/"<This block of commented-out lines of code should be removed.(¥¥êÅøÿÿÿÿ8ª½Ä‡2
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8€ÄßÄ‡2

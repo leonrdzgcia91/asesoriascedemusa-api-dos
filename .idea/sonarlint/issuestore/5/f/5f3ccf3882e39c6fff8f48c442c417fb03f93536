@@ -1,0 +1,50 @@
+
+h	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8—”§ø•2
+h	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8—”§ø•2
+‚
+java:S1488k"`Immediately return this expression instead of assigning it to the temporary variable "fileList".(°Ş‹Àøÿÿÿÿ8™”§ø•2
+_
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÿ”§ø•2
+…
+java:S4144Ÿ"bUpdate this method so that its implementation is not identical to "eliminarArchivosG" on line 140.(–İúÿÿÿÿ8€•§ø•2
+L	java:S1064"+Replace this use of System.out by a logger.(Éºò”ûÿÿÿÿ8’•§ø•2
+L	java:S1065"+Replace this use of System.out by a logger.(óÈæûÿÿÿÿ8’•§ø•2
+L	java:S1066"+Replace this use of System.out by a logger.(çÊ•øÿÿÿÿ8’•§ø•2
+]	java:S125="<This block of commented-out lines of code should be removed.(¼œæšøÿÿÿÿ8”•§ø•2
+G	java:S106B"+Replace this use of System.out by a logger.(»ù‡Ğ8••§ø•2
+G	java:S106G"+Replace this use of System.out by a logger.(»ù‡Ğ8—•§ø•2
+L	java:S106M"+Replace this use of System.out by a logger.(õ¡òèşÿÿÿÿ8˜•§ø•2
+]	java:S125O"<This block of commented-out lines of code should be removed.(ÇĞÃŒÿÿÿÿÿ8˜•§ø•2
+L	java:S106Q"+Replace this use of System.out by a logger.(§¶ú¹ıÿÿÿÿ8˜•§ø•2
+G	java:S106T"+Replace this use of System.out by a logger.(á‘‡8™•§ø•2
+L	java:S106Y"+Replace this use of System.out by a logger.(öü‹Äúÿÿÿÿ8š•§ø•2
+E	java:S108m")Either remove or fill this block of code.(Úîø›8¡•§ø•2
+G	java:S106t"+Replace this use of System.out by a logger.(ú³½ï8¢•§ø•2
+Y	java:S125"<This block of commented-out lines of code should be removed.(Í—‡ä8¨•§ø•2
+H	java:S106’"+Replace this use of System.out by a logger.(Ò‰»8©•§ø•2
+H	java:S106•"+Replace this use of System.out by a logger.(Ò‰»8ª•§ø•2
+^	java:S125š"<This block of commented-out lines of code should be removed.(Šùé«üÿÿÿÿ8«•§ø•2
+Y	java:S125£"<This block of commented-out lines of code should be removed.(Í—‡ä8®•§ø•2
+H	java:S106¥"+Replace this use of System.out by a logger.(Ò‰»8®•§ø•2
+H	java:S106¨"+Replace this use of System.out by a logger.(Ò‰»8¯•§ø•2
+^	java:S125­"<This block of commented-out lines of code should be removed.(Šùé«üÿÿÿÿ8°•§ø•2
+H	java:S106±"+Replace this use of System.out by a logger.(–Àìß8¸•§ø•2
+H	java:S106¶"+Replace this use of System.out by a logger.(öÀ´8Ê•§ø•2
+H	java:S106¸"+Replace this use of System.out by a logger.(„¿º¬8Ë•§ø•2
+M	java:S106¹"+Replace this use of System.out by a logger.(»´Â€şÿÿÿÿ8Ì•§ø•2
+M	java:S106»"+Replace this use of System.out by a logger.( Ş¨ˆıÿÿÿÿ8Í•§ø•2
+Y	java:S125º"<This block of commented-out lines of code should be removed.(”ïúÓ8Í•§ø•2
+f
+java:S1128"DRemove this unused import 'com.example.demo.models.AsignacionModel'.(¯Ó«¶ùÿÿÿÿ8Î•§ø•2
+:
+java:S1128	"Remove this duplicated import.(å®àk8Ï•§ø•2
+W
+java:S1128"5Remove this unused import 'java.net.SocketException'.(¼„™€ûÿÿÿÿ8Ï•§ø•2
+@
+java:S1128"Remove this duplicated import.(ºàÏóúÿÿÿÿ8Ï•§ø•2
+@
+java:S1128"Remove this duplicated import.(Ó¿Üşÿÿÿÿ8Ï•§ø•2
+:
+java:S1128"Remove this duplicated import.(å®àk8Ğ•§ø•2
+G
+java:S1068)"*Remove this unused "sfiles" private field.(³æÁ8Ğ•§ø•2

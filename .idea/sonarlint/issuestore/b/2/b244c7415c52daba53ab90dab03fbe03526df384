@@ -1,0 +1,13 @@
+
+d
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(·Éƒøùÿÿÿÿ8Ë¯õÈ…2
+]	java:S125
+"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ8Ñ¯õÈ…2
+c
+java:S1128"ARemove this unused import 'org.apache.commons.net.ftp.FTPClient'.(ºàÏóúÿÿÿÿ8Ñ¯õÈ…2
+a
+java:S1128"?Remove this unused import 'org.apache.commons.net.ftp.FTPFile'.(Ó¿Üþÿÿÿÿ8Ñ¯õÈ…2
+\
+java:S1128"@Remove this unused import 'org.apache.commons.net.ftp.FTPReply'.(å®àk8Ñ¯õÈ…2
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8Ñ¯õÈ…2

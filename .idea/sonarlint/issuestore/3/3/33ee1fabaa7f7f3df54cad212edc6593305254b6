@@ -1,0 +1,10 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(‹¨È±8Œç…¹€2
+L	java:S106 "+Replace this use of System.out by a logger.(ÕÅÔûÿÿÿÿ8ç…¹€2
+L	java:S106!"+Replace this use of System.out by a logger.(µ›Ï øÿÿÿÿ8ç…¹€2
+L	java:S106""+Replace this use of System.out by a logger.(†¨«Ğùÿÿÿÿ8ç…¹€2
+L	java:S106#"+Replace this use of System.out by a logger.(ù¹ÒŞùÿÿÿÿ8ç…¹€2
+z
+java:S3252&"]Use static access with "org.springframework.web.util.UriComponentsBuilder" for "fromHttpUrl".(“¡¯£8ç…¹€2
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8“ç…¹€2
